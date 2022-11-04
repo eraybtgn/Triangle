@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Hipotenus {
+public class Hipotenus {
+    public static void main(String[] args) {
+    HipoCalcu ilkUcgen= new HipoCalcu();
+    ilkUcgen.degerAl();
+    }
 }
